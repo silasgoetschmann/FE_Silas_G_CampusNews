@@ -1,0 +1,15 @@
+.navLink{
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+.navList{
+    list-style-type: none;
+}
+
+.li{
+    display: inline-block;
+    margin: 0 25px;
+}
+
