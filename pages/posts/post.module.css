@@ -1,0 +1,11 @@
+.text{
+    margin: 15px 0;
+}
+
+.link{
+    display: inline-block;
+    margin: 7px 10px 7px 0;
+    padding: 3px 7px;
+    color: lightblue;
+    border: 1px solid grey;
+}

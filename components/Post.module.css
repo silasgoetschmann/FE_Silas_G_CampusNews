@@ -1,0 +1,11 @@
+.article{
+    margin: 20px 10px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid darkgrey;
+}
+
+.link{
+    display: inline-block;
+    margin-top: 10px;
+    color: lightblue;
+}

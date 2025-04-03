@@ -9,6 +9,7 @@ export default function () {
         <ul className={Styles.navList}>
                 <li className={Styles.li}><Link href="" className={Styles.navLink}>Home</Link></li>
                 <li className={Styles.li}><Link href="/profile" className={Styles.navLink}>Profil</Link></li>
+                <li className={Styles.li}><Link href="/posts/create" className={Styles.navLink}>Create</Link></li>
             </ul>
         </nav>
 
